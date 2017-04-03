@@ -1,1 +1,1 @@
-# Chord-Diagram-Intertext-Genre-Network was originally called Chord-Diagram-Storytelling and was created by nbremer -- http://nbremer.github.io/Chord-Diagram and is highlighted on http://D3js.org
+# Chord-Diagram-Intertext-Genre-Network was originally called Chord-Diagram-Storytelling and was created by nbremer -- http://nbremer.github.io/Chord-Diagram and is highlighted on http://D3js.org.  Also a great tutorial on how it was made by original author: https://www.visualcinnamon.com/portfolio/phone-brand-switching
